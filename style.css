@@ -1,0 +1,46 @@
+/* Estilos generales */
+
+
+
+/*header*/
+header {
+    background-color: #D4AF37;
+}
+
+/* Barra de navegacion */
+.navbar {
+    padding: 2rem;
+}
+
+.navbar-collapse {
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+/* carrusel */
+.carousel-inner {
+  max-height: 880px;
+}
+
+/* Seccion Hero */
+.nosotros {
+  text-align: justify;
+  line-height: 2em;
+}
+
+.hero-imagen-desarrollador {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.compromiso {
+  background-color: #D4AF37;
+  text-align: justify;
+  line-height: 2em;
+}
+
+/* Adaptable Responsive */
+
+
