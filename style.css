@@ -41,6 +41,16 @@ header {
   line-height: 2em;
 }
 
+/* Seccion Opiniones */
+.card-img-botom {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+    border-radius: 50%;
+}
 /* Adaptable Responsive */
 
 
